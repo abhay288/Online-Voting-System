@@ -1,4 +1,4 @@
-# Project Bolt ⚡
+# Online Voting System
 
 Project Bolt is a fast and efficient web-based system for XYZ.  
 This repository contains the complete source code and assets for the project.
